@@ -1,6 +1,6 @@
 === Follow Us Box ===
 Contributors: Deconf
-Tags: twitter, google, facebook, google plus, widget, box, social, follow us, follow me
+Tags: twitter widget, google plus widget, facebook, facebook like box, google plus box, facebook widget, box, social, follow us widget
 Requires at least: 2.8
 Tested up to: 3.5.1
 Stable tag: 1.0
