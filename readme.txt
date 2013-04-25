@@ -1,6 +1,6 @@
 === Follow Us Box ===
 Contributors: Deconf
-Tags: twitter, google+, facebook, google plus, widget, box, social
+Tags: twitter, google, facebook, google plus, widget, box, social, follow us
 Requires at least: 2.8
 Tested up to: 3.5.1
 Stable tag: 1.0
