@@ -1,9 +1,9 @@
 === Follow Us Box ===
-Contributors: Deconf
-Tags: twitter widget, google plus widget, facebook, facebook like box, google plus box, facebook widget, box, social, follow us widget
+Contributors: deconf
+Tags: twitter widget, google widget, facebook widget, facebook like, google box, social, follow us, box
 Requires at least: 2.8
 Tested up to: 3.5.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,20 +16,20 @@ This plugin will install a frontend widget containing: a Twitter follow button, 
 Google+ box features:
 
 - enable/disable google+ box
-- widget width
-- widget style
+- google box width
+- google widget style
 
 Twitter follow button features:
 
 - enable/disable twitter button
-- button size
+- follow button size
 - show/hide count
 
 Facebook like box features:
 
 - enable/disable facebook box
-- widget width
-- widget height
+- facebook widget width
+- facebook widget height
 - show/hide faces
 - show/hide stream
 
@@ -54,6 +54,9 @@ Related Links:
 This plugin it's released under the GPLv2, you can use it free of charge on your personal or commercial website.
 
 == Changelog ==
+
+= 02.05.2013 - v1.0.1 =
+* readme and author name fix
 
 = 25.04.2013 - v1.0 =
 * first release
