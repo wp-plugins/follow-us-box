@@ -2,7 +2,7 @@
 /* Plugin Name: Follow Us Box
 Plugin URI: http://www.deconf.com
 Description: This is a frontend widget for Twitter, Google+ and Facebook
-Version: 1.0
+Version: 1.0.1
 Author: Deconf.com
 Author URI: http://www.deconf.com
 */
