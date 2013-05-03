@@ -11,7 +11,7 @@ This is a fully customizable frontend widget for Twitter, Google+ and Facebook
 
 == Description ==
 
-This plugin will install a frontend widget containing: a Twitter follow button, a Facebook like box and a Google Plus box.
+This plugin will install a frontend widget containing: a Twitter follow button, a Facebook like box and a Google Plus box. You can also set the display order for these social media buttons.
 
 Google+ box features:
 
