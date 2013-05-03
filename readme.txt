@@ -55,6 +55,9 @@ This plugin it's released under the GPLv2, you can use it free of charge on your
 
 == Changelog ==
 
+= 03.05.2013 - v1.1.1 =
+* removed duplicate option
+
 = 03.05.2013 - v1.1 =
 * added display order for google+, twitter and facebook
 * fix widget title
