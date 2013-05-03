@@ -3,7 +3,7 @@ Contributors: deconf
 Tags: twitter widget, google widget, facebook widget, facebook like, google box, social, follow us, box
 Requires at least: 2.8
 Tested up to: 3.5.1
-Stable tag: 1.0.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -54,6 +54,10 @@ Related Links:
 This plugin it's released under the GPLv2, you can use it free of charge on your personal or commercial website.
 
 == Changelog ==
+
+= 03.05.2013 - v1.1 =
+* added display order for google+, twitter and facebook
+* fix widget title
 
 = 02.05.2013 - v1.0.1 =
 * readme and author name fix
