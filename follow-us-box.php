@@ -2,7 +2,7 @@
 /* Plugin Name: Follow Us Box
 Plugin URI: http://www.deconf.com
 Description: This is a frontend widget for Twitter, Google+ and Facebook
-Version: 1.1
+Version: 1.1.1
 Author: Deconf.com
 Author URI: http://www.deconf.com
 */
@@ -227,17 +227,7 @@ class FollowUsBox extends WP_Widget {
 		<option value="1" <?php if ($ffb_stream=="1") echo "selected='yes'"; echo ">".__('Show', 'followusbox');?></option>
 		<option value="0" <?php if ($ffb_stream=="0") echo "selected='yes'"; echo ">".__('Hide', 'followusbox');?></option>
 	</select>
-	<p>
-	<label for="<?php echo $this->get_field_id('fb_order'); ?>"><?php _e('Order:', 'followusbox'); ?></label>
-	<select id="<?php echo $this->get_field_id('fb_order'); ?>" name="<?php   echo $this->get_field_name( 'fb_order' ); ?>">
-		<option value="0" <?php if ($fb_order=="0") echo "selected='yes'"; echo ">".__('Google, Twitter, Facebook', 'followusbox');?></option>
-		<option value="1" <?php if ($fb_order=="1") echo "selected='yes'"; echo ">".__('Google, Facebook, Twitter', 'followusbox');?></option>
-		<option value="2" <?php if ($fb_order=="2") echo "selected='yes'"; echo ">".__('Facebook, Google, Twitter', 'followusbox');?></option>
-		<option value="3" <?php if ($fb_order=="3") echo "selected='yes'"; echo ">".__('Facebook, Twitter, Google', 'followusbox');?></option>
-		<option value="4" <?php if ($fb_order=="4") echo "selected='yes'"; echo ">".__('Twitter, Facebook, Google', 'followusbox');?></option>
-		<option value="5" <?php if ($fb_order=="5") echo "selected='yes'"; echo ">".__('Twitter, Google, Facebook', 'followusbox');?></option>		
-	</select>
-	</p>	
+	</p>
     <?php
   }
 
