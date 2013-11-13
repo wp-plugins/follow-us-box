@@ -1,5 +1,6 @@
 === Follow Us Box ===
 Contributors: deconf
+Donate link: http://deconf.com/donate/
 Tags: twitter widget, google widget, facebook widget, facebook like, google box, social, follow us, twitter, facebook, google
 Requires at least: 2.8
 Tested up to: 3.5.1
