@@ -3,7 +3,7 @@
 Plugin URI: http://www.deconf.com
 Description: This is a frontend widget for Twitter, Google+ and Facebook
 Version: 1.1.1
-Author: Deconf.com
+Author: Alin Marcu
 Author URI: http://www.deconf.com
 */
 class FollowUsBox extends WP_Widget {
@@ -153,7 +153,7 @@ class FollowUsBox extends WP_Widget {
 	$ffb_enable = $instance['ffb_enable'];
 	$fb_order = $instance['fb_order'];	
     ?>
-	<?php /*<div style="float:right;"><a href="http://www.deconf.com/en" target="_blank"><?php _e('Help', 'followusbox'); ?></a></div>
+	<?php /*<div style="float:right;"><a href="http://deconf.com" target="_blank"><?php _e('Help', 'followusbox'); ?></a></div>
     <br />*/ ?>
 	<p>
     <label for="<?php echo $this->get_field_id('fb_title'); ?>"><?php _e('Title:', 'followusbox'); ?></label>
